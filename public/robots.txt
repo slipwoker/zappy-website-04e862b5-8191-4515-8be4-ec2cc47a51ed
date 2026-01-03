@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cdesign-04e862b5.zappy5.app/sitemap.xml
