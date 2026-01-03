@@ -1,59 +1,47 @@
-# Cdesign — Generative Engine Optimization Map
-
-> A אירועים והשכרה business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### דף הבית
-https://cdesign-04e862b5.zappy5.app
+https://example.com
 השכרת ריהוט לאירועים יוקרתי עם Cdesign - פתרונות ריהוט מושלמים לאירועים עסקיים, חתונות וכנסים. קטלוג עשיר, שירות מקצועי ומחירים תחרותיים.
 
 ### שירותים
-https://cdesign-04e862b5.zappy5.app/services
+https://example.com/services
 גלה את מגוון השירותים של Cdesign - השכרת ריהוט לאירועים עסקיים, חתונות וכנסים. כיסאות, שולחנות, ספות ואביזרי נוי ברמה הגבוהה ביותר.
 
 ### אודות
-https://cdesign-04e862b5.zappy5.app/about
+https://example.com/about
 הכירו את Cdesign - מובילים בתחום השכרת ריהוט לאירועים בישראל. ניסיון רב, שירות מקצועי ומחויבות למצוינות בכל אירוע.
 
 ### צור קשר
-https://cdesign-04e862b5.zappy5.app/contact
+https://example.com/contact
 צור קשר עם Cdesign לקבלת ייעוץ והצעת מחיר להשכרת ריהוט לאירועים. זמינים עבורכם לכל שאלה או בקשה מיוחדת.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://cdesign-04e862b5.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://cdesign-04e862b5.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://cdesign-04e862b5.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Cdesign
-Cdesign is a business in the אירועים והשכרה industry.
-
-## Target Audience
-- מתכנני אירועים מקצועיים
-- מתאמי אירועים עסקיים
-- מארגני חתונות
-
-## Industry
-אירועים והשכרה
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://cdesign-04e862b5.zappy5.app/sitemap.xml
-- **Robots.txt**: https://cdesign-04e862b5.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
